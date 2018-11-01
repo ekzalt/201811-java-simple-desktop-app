@@ -1,2 +1,3 @@
-# 201811-java-simple-desktop-app
+# Simple Java desktop app
+
 Simple GUI desktop application with MySQL registration
